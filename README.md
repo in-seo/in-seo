@@ -6,7 +6,7 @@
  - DB
 
 
-<h3 align="center"><b>🛠 My Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 My Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
