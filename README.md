@@ -1,6 +1,8 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=insi2000">
 
-> `I'm focusing on studying Back-end technology!`
+> `I'm focusing on studying Back-end technology.`
+> 
+> `currently learning DB, Html+CSS`
  - Java Spring
  - JPA
  - DB
