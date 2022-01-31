@@ -2,7 +2,7 @@
 
 > `I'm focusing on studying Back-end technology.`
 > 
-> `currently learning DB, Html+CSS`
+> `currently learning Spring MVC, MySQL`
  - Java Spring
  - JPA
  - DB
