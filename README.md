@@ -4,7 +4,7 @@
 > 
 > `currently learning Spring MVC, MySQL`
  - Java Spring
- - JPA
+ - JPA, Thymeleaf
  - DB
 
 
