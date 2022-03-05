@@ -2,10 +2,10 @@
 
 > `I'm focusing on studying Back-end technology.`
 > 
-> `currently learning Spring MVC, MySQL`
+> `currently learning Spring MVC, js`
  - Java Spring
  - JPA, Thymeleaf
- - DB
+ - DB, jquery
 
 
 <h3 align="left"><b>🛠 My Tech Stack 🛠</b></h3>
