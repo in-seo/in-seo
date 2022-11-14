@@ -1,7 +1,7 @@
 <li><a href = "https://soup.pw">스프</a> 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 백엔드 총괄.   운영중  <sub>(2022.03 ~)</sub></li>
  <details> &nbsp;
-     <summary>&nbsp;
-          <a href = "https://chaksong.com">착송</a> 착오송금 반환 서비스 스타트업  백엔드 전체, 은행 API 담당  <sub>(2022.08 ~ 2022.12) 개발 완료, 출시 예정</sub> 
+     <summary>
+          &nbsp;<a href = "https://chaksong.com">착송 </a>: 착오송금 반환 서비스 스타트업  백엔드 전체, 은행 API 담당  <sub>(2022.08 ~ 2022.12) 개발 완료, 출시 예정</sub> 
      </summary>
 &nbsp;
  
@@ -13,11 +13,11 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부 </a> 서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2022.12) 진행중 </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2022.12) 진행중 </sub> </li>
 
  <details open> &nbsp;
  <summary>
-         <a href = ""> 신작 </a> : 백엔드, 배포 담당 <sub>(2022.10 ~ 2022.12)</sub>
+         &nbsp;<a href = "">신작 </a>: 백엔드, 배포 담당 <sub>(2022.10 ~ 2022.12)</sub>
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
