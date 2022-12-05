@@ -4,6 +4,19 @@
           &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  백엔드 전체, 은행 API 담당  <sub>(2022.08 - 2022.12 ~ 운영중)  </sub> 
      </summary>
 &nbsp;
+ <sub> 
+  
+  [ 금융기관 선정 서비스 '착송' ] <br>
+  
+  2022 예비창업패키지(정부지원사업) 선정 서비스 <br>
+  
+  2022 부산은행 썸인큐베이터 7기 선정 서비스 <br>
+  
+  2022 한국핀테크지원센터 법률 지원 (금융감독원 자문) <br>
+  
+  2022 부산 클라우드 엑스포 전시 서비스 <br>
+  
+ </sub> 
  
 ![회사소개 삽입 이미지 2 (1)](https://user-images.githubusercontent.com/94730032/201576242-11cdfd72-fe51-46df-909d-4e478c0f91f1.svg)
 
