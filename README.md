@@ -16,13 +16,14 @@
   
   2022 부산 클라우드 엑스포 전시 서비스 <br>
   
+  <a href = "https://n.news.naver.com/article/014/0004938410">출시 기사 링크</a>
+  
  </sub> 
  
 ![회사소개 삽입 이미지 2 (1)](https://user-images.githubusercontent.com/94730032/201576242-11cdfd72-fe51-46df-909d-4e478c0f91f1.svg)
 
 ![(figma) 엑스포 벽면 그래픽 디자인_3 (1)](https://user-images.githubusercontent.com/94730032/201576237-71d333ae-26c9-43c3-8f73-c2fc3968b356.svg)
 
-<a href = "https://mobile.busan.com/view/busan/view.php?code=2022111318145068285">출시 기사 링크</a>
 
  </details>
  
