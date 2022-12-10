@@ -1,4 +1,4 @@
-<li><a href = "https://soup.pw">스프</a> 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 백엔드 전체 담당.  <sub>(중복제외 방문자 5천+ , 조회수 5만+, 구글검색 2위) (2022.07 ~ 운영중)</sub></li>
+<li><a href = "https://soup.pw">스프</a> 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(중복제외 방문자 5천+ , 조회수 5만+, 구글검색 2위) (2022.07 ~ 운영중)</sub></li>
  <details> &nbsp;
      <summary>
           &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  백엔드 전체, 은행 API 담당  <sub>(2022.08 - 2022.12 ~ 운영중)  </sub> 
