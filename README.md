@@ -1,7 +1,7 @@
-<li><a href = "https://soup.pw">스프</a> 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(중복제외 방문자 5천+ , 조회수 5만+, 구글검색 2위) (2022.07 ~ 운영중)</sub></li>
+<li><a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(중복제외 방문자 6천+ , 조회수 7만+, 구글검색 2위) (2022.07 ~ 운영중)</sub></li>
  <details> &nbsp;
      <summary>
-          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  백엔드 전체, 은행 API 담당  <sub>(2022.08 - 2022.12 ~ 운영중)  </sub> 
+          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  서버 전체, 은행 API 담당  <sub>(2022.08 - 2022.12 ~ 운영중)  </sub> 
      </summary>
 &nbsp;
  <sub> 
@@ -12,9 +12,11 @@
   
   2022 부산은행 썸인큐베이터 7기 선정 서비스 <br>
   
-  2022 한국핀테크지원센터 법률 지원 (금융감독원 자문) <br>
+  2022 부산 창업 촉진 사업 액셀러레이팅 선정 기업 <br>
   
   2022 부산 클라우드 엑스포 전시 서비스 <br>
+  
+  2022 부산 혁신 창업기업 육성 플랫폼(BIGS) 사업 우수 기업 선정 <br>
   
   <a href = "https://n.news.naver.com/article/014/0004938410">출시 기사 링크</a>
   
