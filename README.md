@@ -2,7 +2,8 @@
  <summary>
          &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(중복제외 방문자 7천+ , 조회수 7만+, 구글검색 2위) (2022.07 ~ 운영중)</sub>
  </summary>
-
+&nbsp;
+ 
 ![soup](https://user-images.githubusercontent.com/94730032/208626448-a2b640dd-5bc0-47b6-8905-8f65e3256475.png)
 
 </details>
