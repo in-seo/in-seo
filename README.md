@@ -11,7 +11,7 @@
 
  <details> &nbsp;
      <summary>
-          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  서버 전체, 은행 API 담당  <sub>(2022.08 - 2022.12 ~ 운영중)  </sub> 
+          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  서버 전체, 은행 API 담당  <sub>(2022.08 - 2023.~ 운영중)  </sub> 
      </summary>
 &nbsp;
  <sub> 
@@ -39,11 +39,11 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2022.12) 진행중 </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.~) 진행중 </sub> </li>
 
  <details open> &nbsp;
  <summary>
-         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다. 백엔드, 배포 담당 <sub>(2022.10 ~ 2022.12)  진행중</sub> 
+         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다. 백엔드, 배포 담당 <sub>(2022.10 ~ 2023.1)  진행중</sub> 
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
