@@ -41,7 +41,7 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.~) 진행중 </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.1)  </sub> </li>
 
  <details open> &nbsp;
  <summary>
