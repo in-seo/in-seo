@@ -1,6 +1,6 @@
 <details>
  <summary>
-         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(방문자 9천+ , 조회수 9만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
+         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 9천+ , 조회수 9만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
  </summary>
 &nbsp;
  
@@ -13,7 +13,7 @@
 
  <details> &nbsp;
      <summary>
-          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  서버 전체, 은행 API 담당  <sub>(2022.08 - 2023.~ 운영중)  </sub> 
+          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업🔹서버 전체, 은행 API 담당  <sub>(2022.12 - 운영중)  </sub> 
      </summary>
 &nbsp;
  <sub> 
@@ -41,15 +41,24 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.1)  </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.7)  </sub> </li>
+&nbsp;
 
- <details open> &nbsp;
+ <details> &nbsp;
  <summary>
-         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다. 백엔드, 배포 담당 <sub>(2022.10 ~ 2023.1)  진행중</sub> 
+         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다.🔹백엔드, 배포 담당 <sub>(2022.10 ~ 2023.2)  진행중</sub> 
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
  
  </details>
-  
+ 
+ <details> &nbsp;
+ <summary>
+         &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 서버 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
+ </summary>
+ 
+  ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
+ 
+ </details>
   
