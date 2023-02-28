@@ -1,6 +1,6 @@
 <details>
  <summary>
-         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 9천+ , 조회수 9만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
+         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 1만+ , 조회수 11만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
  </summary>
 &nbsp;
  
@@ -46,7 +46,7 @@
 
  <details> &nbsp;
  <summary>
-         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다.🔹백엔드, 배포 담당 <sub>(2022.10 ~ 2023.2)  진행중</sub> 
+         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다.🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.2)  진행중</sub> 
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
@@ -55,7 +55,7 @@
  
  <details> &nbsp;
  <summary>
-         &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
+         &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(2023.2 ~ 운영중)  </sub> 
  </summary>
  
   ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
