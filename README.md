@@ -46,7 +46,7 @@
 
  <details> &nbsp;
  <summary>
-         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다.🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.2) 앱 검수중</sub> 
+         &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다.🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.3) 앱 검수중</sub> 
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
