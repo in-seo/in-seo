@@ -58,7 +58,57 @@
          &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(2023.2 ~ 운영중)  </sub> 
  </summary>
  
-  ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
+ ## 🐣 초보자를 위한 UnivCert의 라이브러리 배포
+
+자세한 설명은 [해당 사이트](https://univcert.com/)에서도 확인하실 수 있습니다.
+
+💡 build.gradle에 해당 코드 두 줄 추가
+
+```
+repositories{
+  ...
+  maven {url 'https://jitpack.io'}
+}
+
+dependencies{
+  ...
+  implementation 'com.github.in-seo:univcert:master-SNAPSHOT'
+  ...
+}
+```
+
+✉ 이용자 메일 인증 시작 (인증코드 발송)
+
+**`UnivCert.certify("key", "email", "univName", univ_check(bool));`**
+
+- -> 하단 json 형태로 자동 변환 및 http 전송 POST([univcert.com/api/v1/certify](http://univcert.com/api/v1/certify))
+
+```
+{
+  “key” : “부여받은 API KEY”,
+  "email” : “abc@mail.hongik.ac.kr”,
+  “univName” : “홍익대학교”,
+  “univ_check” : true
+	(true라면 해당 대학 재학 여부, false라면 메일 소유자 인증만)
+}
+```
+
+✅ 이용자 메일에 발송된 코드를 전달 받아 인증 받기
+
+**`UnivCert.certifyCode("key", "email", "univName", 인증코드(int));`**
+
+- -> 하단 형태로 자동 변환 및 http 전송 POST([univcert.com/api/v1/certifycode](http://univcert.com/api/v1/certifycode))
+
+```
+{
+  “key” : “부여받은 API KEY”
+  “email” : "abc@mail.hongik.ac.kr”,
+  “univName” : “홍익대학교”,
+  “code” : 3816
+}
+```
+
+🆗 응답 성공 시 인증 끝 !
  
  </details>
   
