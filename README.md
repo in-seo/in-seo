@@ -1,6 +1,6 @@
 <details>
  <summary>
-         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 1.3만+ , 조회수 15만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
+         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 1.5만+ , 조회수 17만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
  </summary>
 &nbsp;
  
@@ -41,7 +41,7 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.6)  </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.5)  </sub> </li>
 &nbsp;
 
  <details> &nbsp;
