@@ -46,9 +46,14 @@
 
  <details> &nbsp;
  <summary>
-  &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.5) 앱 검수중</sub> 
+  &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.5) </sub> 
  </summary>
- 
+	 
+ ### 🔗 서비스 링크
+- [Apple App Store](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462)
+- [Google Play Store](https://play.google.com/store/apps/details?id=io.sinzak.android&pli=1)
+- [PC](https://sinzak.net/)
+	 
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
  
  </details>
