@@ -13,7 +13,7 @@
 
  <details> &nbsp;
      <summary>
-          &nbsp;<a href = "https://chaksong.com">착송 </a>: 착오송금 반환 서비스 스타트업🔹서버 전체, 은행 API 담당  <sub>(2022.12 - 03.31) 점검중  </sub> 
+          &nbsp;<a href = "https://chaksong.com">착송 </a>: 착오송금 반환 서비스 스타트업🔹서버 전체, 은행 API 담당  <sub>(2022.12 - 03.31)  </sub> 
      </summary>
 &nbsp;
  <sub> 
