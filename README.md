@@ -41,12 +41,12 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.12)  </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2024.2)  </sub> </li>
 &nbsp;
 
  <details> &nbsp;
  <summary>
-  &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2022.10 ~ 2023.6) </sub> 
+  &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 운영중) </sub> 
  </summary>
 	 
  ### 🔗 서비스 링크
