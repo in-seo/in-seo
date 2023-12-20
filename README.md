@@ -119,6 +119,12 @@ dependencies{
 
 <hr>
 
+<h4> Experience </h4>
+
+- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(2023.12 ~ 진행중)</sub>
+
+<hr>
+
 <h4> Contribute </h4>
 
 표준프레임워크 컨트리뷰션  <a href = "https://github.com/eGovFramework/egovframe-common-components/pull/188">#188</a>
