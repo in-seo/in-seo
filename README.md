@@ -46,7 +46,7 @@
 
  <details> &nbsp;
  <summary>
-  &nbsp;<a href = "https://sinzak.net">신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 운영중) </sub> 
+  &nbsp;신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 2024.01) </sub> 
  </summary>
 	 
  ### 🔗 서비스 링크
