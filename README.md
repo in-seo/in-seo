@@ -134,7 +134,8 @@ dependencies{
 
 <h4> Certificate </h4>
 
-**` AWS SAA (솔루션 아키텍트) `**
+| AWS SAA | CKA |
+|------------------------|----------------------|
+| <div style="text-align: center;"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></div> | <div style="text-align: center;"><img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100"></div> |
 
- <a href="https://www.credly.com/badges/347fb739-0fff-486d-be98-7410530f8943/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
-  
+
