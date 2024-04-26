@@ -129,7 +129,7 @@ dependencies{
 
 표준프레임워크 컨트리뷰션  <a href = "https://github.com/eGovFramework/egovframe-common-components/pull/188">#188</a>
 
-docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> (Add relay host config guide for Gmail)  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
+docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> 전체작성 (Add relay host config guide for Gmail)  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
 
 <hr>
 
