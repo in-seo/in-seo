@@ -43,20 +43,8 @@
  
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2024.2)  </sub> </li>
 &nbsp;
-
- <details> &nbsp;
- <summary>
-  &nbsp;신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 2024.01) </sub> 
- </summary>
-	 
- ### 🔗 서비스 링크
-- [Apple App Store](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462)
-- [Google Play Store](https://play.google.com/store/apps/details?id=io.sinzak.android&pli=1)
-- [PC](https://sinzak.net/)
-	 
-  ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
- 
- </details>
+<li> 신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 2024.01) </sub> </li>
+&nbsp;
  
  <details> &nbsp;
  <summary>
@@ -121,7 +109,7 @@ dependencies{
 
 <h4> Experience </h4>
 
-- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(2023.12 ~ 진행중)</sub>
+- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(2023.12 ~ 진행중,  6월 종료 예정)</sub>
 
 <hr>
 
@@ -129,7 +117,7 @@ dependencies{
 
 표준프레임워크 컨트리뷰션  <a href = "https://github.com/eGovFramework/egovframe-common-components/pull/188">#188</a>
 
-docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> 전체작성 (Add relay host config guide for Gmail)  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
+docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> 페이지 작성 (Add relay host config guide for Gmail)  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
 
 <hr>
 
