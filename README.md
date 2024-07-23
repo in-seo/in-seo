@@ -115,7 +115,7 @@ dependencies{
 
 <h4> Contribute </h4>
 
-표준프레임워크 컨트리뷰션  <a href = "https://github.com/eGovFramework/egovframe-common-components/pull/188">#188</a>
+Linux Foundation 산하 오픈소스 <a href = "https://github.com/cloudforet-io">Cloudforet</a>의 NHN 클라우드 자원수집 <a href = "https://github.com/cloudforet-io/plugin-nhncloud-inven-collector/pulls/in-seo">플러그인</a> 컨트리뷰트
 
 docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> 페이지 작성 (Add relay host config guide for Gmail)  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
 
