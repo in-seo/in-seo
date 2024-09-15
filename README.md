@@ -13,7 +13,7 @@
 
  <details> &nbsp;
      <summary>
-          &nbsp;착송 : 착오송금 반환 서비스 스타트업🔹서버 전체, 은행 API 연동  <sub>(2022.08 - 2023.01)  </sub> 
+          &nbsp;착송 : 착오송금 반환 서비스 스타트업🔹서버 전체, 금융 API 연동  <sub>(2022.08 - 2023.01)  </sub> 
      </summary>
 &nbsp;
  <sub> 
