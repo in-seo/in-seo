@@ -1,6 +1,6 @@
 <details>
  <summary>
-         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당. <sub>(방문자 5.5만+ , 조회수 56만+, MAU 3천+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
+         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳🔹기획, 서버 전체 담당.  <sub>(방문자 5.5만+ , 조회수 56만+, MAU 3천+, 구글검색 1.1위) (22.07 ~ 운영중)</sub>
  </summary>
 &nbsp;
  
@@ -13,7 +13,7 @@
 
  <details> &nbsp;
      <summary>
-          &nbsp;착송 : 착오송금 반환 서비스 스타트업🔹서버 전체, 금융 API 연동  <sub>(2022.08 - 2023.01)  </sub> 
+          &nbsp;착송 : 착오송금 반환 서비스 스타트업🔹서버 전체, 금융 API 연동  <sub>(22.08 - 23.01)  </sub> 
      </summary>
 &nbsp;
  <sub> 
@@ -41,14 +41,14 @@
 
  </details>
  
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2024.2)  </sub> </li>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(22.09 ~ 24.02)  </sub> </li>
 &nbsp;
 <li> 신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 2024.01) </sub> </li>
 &nbsp;
  
  <details> &nbsp;
  <summary>
-         &nbsp;<a href = "https://univcert.com">UNIVCERT</a> : 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(2023.2 ~ 운영중)  </sub> 
+         &nbsp;<a href = "https://univcert.com">UNIVCERT</a> : 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(23.02 ~ 운영중)  </sub> 
  </summary>
  
  ## 🐣 초보자를 위한 UnivCert의 라이브러리 배포
@@ -109,7 +109,7 @@ dependencies{
 
 <h4> Experience </h4>
 
-- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(2023.12 ~ 2024.06)</sub>
+- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(23.12 ~ 24.06)</sub>
 
 <hr>
 
