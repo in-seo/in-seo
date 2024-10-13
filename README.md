@@ -110,7 +110,7 @@ dependencies{
 <h4> Experience </h4>
 
 - `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(23.12 ~ 24.06)</sub>
-- `플라네타리움 GameFi팀 백엔드 인턴` <sub>(24.08 ~ 24.11)</sub>
+- `플라네타리움 GameFi팀 블록체인 백엔드 인턴` <sub>(24.08 ~ 24.11)</sub>
 
 <hr>
 
