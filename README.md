@@ -110,12 +110,14 @@ dependencies{
 <h4> Experience </h4>
 
 - `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(23.12 ~ 24.06)</sub>
+- `플라네타리움 GameFi팀 백엔드 인턴` <sub>(24.08 ~ 24.11)</sub>
 
 <hr>
 
 <h4> Contribute </h4>
 
 Linux Foundation 산하 오픈소스 <a href = "https://github.com/cloudforet-io">Cloudforet</a>의 NHN 클라우드 자원수집 <a href = "https://github.com/cloudforet-io/plugin-nhncloud-inven-collector/pulls/in-seo">플러그인</a> 컨트리뷰트
+<sub> <a href= "https://meetup.nhncloud.com/posts/387"> NHN Cloud 기술블로그</a> </sub>
 
 docker-mailserver  <a href= "https://docker-mailserver.github.io/docker-mailserver/edge/config/advanced/mail-forwarding/gmail-smtp/">Docs</a> 페이지 작성 <sub>(Gmail을 통해 자체 메일서버의 메일을 전달 하는 방법)</sub>  <a href = "https://github.com/docker-mailserver/docker-mailserver/pull/3958">#3958</a>
 
