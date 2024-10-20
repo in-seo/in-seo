@@ -43,7 +43,7 @@
  
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장🔹스프링 스터디, 프로젝트 리드  <sub>(22.09 ~ 24.02)  </sub> </li>
 &nbsp;
-<li> 신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.6 ~ 2024.01) </sub> </li>
+<li> 신작 </a>: 신세대의 작품을 만나다. <sub>[Web, IOS, AOS]</sub>🔹기획, 서버, 배포 담당 <sub>(2023.06 ~ 2024.01) </sub> </li>
 &nbsp;
  
  <details> &nbsp;
