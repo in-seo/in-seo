@@ -48,7 +48,7 @@
  
  <details> &nbsp;
  <summary>
-         &nbsp;<a href = "https://univcert.com">UNIVCERT</a> : 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(23.02 ~ 운영중)  </sub> 
+         &nbsp;<a href = "https://univcert.com">UNIVCERT</a> : 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹기획, 디자인, 서버 전체 담당 <sub>(23.02 ~ 25.07 서비스 종료)  </sub> 
  </summary>
  
  ## 🐣 초보자를 위한 UnivCert의 라이브러리 배포
